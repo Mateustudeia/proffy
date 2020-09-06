@@ -28,7 +28,9 @@
     box-sizing: border-box;
 }
 
-html, body, #root {
+html, 
+body, 
+#root {
     height: 100vh;
 }
 
@@ -38,8 +40,8 @@ body {
 
 #root {
     display: flex;
-    align-items:  center;
-    justify-content:  center;
+    align-items: center;
+    justify-content: center;
 }
 
 body,
