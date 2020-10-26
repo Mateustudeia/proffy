@@ -8,7 +8,7 @@ function TeacherItem() {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://media-exp1.licdn.com/dms/image/C5603AQFXKDFXmeZ_yQ/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=wDhZiAfuGN9GtY_zEUFr8eL4-l0hXjGZE6MVFjXWsf8" alt="Mateus Tudéia"/>
+                <img src="https://media-exp1.licdn.com/dms/image/C5603AQFXKDFXmeZ_yQ/profile-displayphoto-shrink_200_200/0?e=1609372800&v=beta&t=ymdycGDQ_tgRAx56VvDylT83fJNe36HcRUsGgrP5OIA" alt="Mateus Tudéia"/>
                 <div>
                     <strong>Mateus Tudéia</strong>
                     <span>Quality Analyst</span>
